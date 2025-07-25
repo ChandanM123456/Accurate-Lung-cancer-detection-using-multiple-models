@@ -41,3 +41,23 @@ The following four models are implemented and compared:
 Each model's performance is evaluated using accuracy scores and visualized using confusion matrices and loss/accuracy plots.
 
 ---
+
+
+
+## 🔗 Pre-trained Model Downloads
+
+You can download the pre-trained models from the links below and place them in the `models/` folder:
+
+- 📥 [CNN Model](https://drive.google.com/uc?export=download&id=1x-jUduEkdC5g2qPw7Hl3Sy5cERxzdjOq)
+- 📥 [ResNet Model](https://drive.google.com/uc?export=download&id=1XTBXVmuspWfBgOTLNef2yLEPPMLPucGc)
+- 📥 [VGG Model](https://drive.google.com/uc?export=download&id=1bfbLMhIvHN6CsMrOLTZFv1ffc_5LahcW)
+- 📥 [Random Forest Model](https://drive.google.com/uc?export=download&id=1VmJ2ZCUUQu6wrNbCRPLhhmPM8eNN01i9)
+
+📝 **Note**: Download and place these files in the `models/` directory before running the notebook.
+
+
+### 🚀 Automatic Model Downloader
+
+```bash
+python download_models.py
+
