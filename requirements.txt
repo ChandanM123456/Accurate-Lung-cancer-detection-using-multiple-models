@@ -4,3 +4,5 @@ keras
 scikit-learn
 matplotlib
 joblib
+gdown>=4.4.0
+
