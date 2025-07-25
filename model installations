@@ -1,1 +1,5 @@
+### 🚀 Automatic Model Downloader
+
+```bash
+python download_models.py
 
